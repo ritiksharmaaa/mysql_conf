@@ -1,0 +1,20 @@
+install mysql server
+install mysql workbench client 
+
+rdbms - oracle mysql 
+
+two type of database component : - 
+
+1 - client : - It can perform operation on the database.
+2 - server : - store the data in databse . 
+
+
+client is install in single or multiple machine . 
+
+server install in remote server machine . 
+
+
+so alldatabse connect to server - 
+to perform operation use to connect client . 
+
+for command visit the link : https://www.interviewbit.com/mysql-cheat-sheet/
